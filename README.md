@@ -1,0 +1,6 @@
+"C:\Users\prana\OneDrive\Documents\New folder\homepage.html"
+"C:\Users\prana\OneDrive\Documents\New folder\career.html"
+"C:\Users\prana\OneDrive\Documents\New folder\note.html"
+"C:\Users\prana\OneDrive\Documents\New folder\discussion.html"
+"C:\Users\prana\OneDrive\Documents\New folder\about_us.html"
+"C:\Users\prana\OneDrive\Documents\New folder\contact.html"
